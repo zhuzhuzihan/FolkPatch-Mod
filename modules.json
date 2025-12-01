@@ -1,14 +1,14 @@
 [
   {
-    "name": "Example Module",
-    "version": "1.0.0",
-    "url": "https://example.com/module.zip",
-    "description": "This is an example module description."
+    "name": "Zygisk Next",
+    "version": "1.3.1",
+    "url": "https://github.com/matsuzaka-yuki/FoldPatch-Mod/releases/download/zygisk/NeoZygisk-v2.2-269-b0ed8f5-release.zip",
+    "description": "一个优秀的Zygisk基底模块,适配多种ROOT方案."
   },
   {
-    "name": "Another Module",
-    "version": "2.0.1",
-    "url": "https://example.com/another.zip",
-    "description": "Another useful module."
+    "name": "Neo Zygisk",
+    "version": "2.2",
+    "url": "https://github.com/matsuzaka-yuki/FoldPatch-Mod/releases/download/zygisk/NeoZygisk-v2.2-269-b0ed8f5-release.zip",
+    "description": "一个轻量化的Zygisk基底模块,适配多种ROOT方案."
   }
 ]
